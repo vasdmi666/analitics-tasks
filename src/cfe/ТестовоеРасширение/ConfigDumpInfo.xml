@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="Catalog.ТР_ВидыТарифов" id="8e40bef2-69dd-4692-b860-eb39a6144f5f" configVersion="4fd641f18f66876dd0151882e18f78ea748cdecf">
+			<Metadata name="Catalog.ТР_ВидыТарифов.Attribute.Стоимость" id="7af953bf-0bad-471e-9407-cf0c3f82f25b"/>
+			<Metadata name="Catalog.ТР_ВидыТарифов.Attribute.Комментарий" id="c57fd577-3511-44cf-82ff-d67e80485f22"/>
+		</Metadata>
+		<Metadata name="Catalog.ТР_Клиенты" id="eb7d90b0-3f16-474b-ac0b-eca9cf146d18" configVersion="e930d5a2d5d7e5781c0f7efbe8a407796e5392ed">
+			<Metadata name="Catalog.ТР_Клиенты.Attribute.ИНН" id="0ae0eb72-6782-4286-b390-bcd7cb9f278c"/>
+		</Metadata>
+		<Metadata name="Catalog.ТР_НастройкиИнтеграций" id="4b143ec8-d6a8-4114-b7e4-06b3bdae2405" configVersion="9a5632fdbc389edda0a13d88361daded92e316d1">
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.ПарольПриложения" id="0860d555-f079-48cf-ac08-dae8f4c2ae6d"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.ВремяАктуальностииСообщений" id="0cad06e4-867d-4bfe-b4ae-c328340b474c"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.КодАвторизации" id="1b287be3-dcfa-4b70-a429-8289aee4d5ae"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.ВремяОжидания" id="1ecc7963-b786-4b6a-b6c5-62460de9ab2a"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.НаименованиеПубликации" id="4091440f-27e1-49b4-9aa0-33eed5bc0c3d"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.РазмерПулаСообщений" id="42b633cd-f731-4969-a1e7-69bbf4528563"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.login" id="4d1a6b5f-ea55-4c48-af8d-236ac99fd9c9"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.provider" id="7f65aa42-d420-4c7c-a085-074b183fb504"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.АдресСервиса" id="859b897e-be30-46c8-8066-04ad7fd29e7f"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.ПаузаМеждуСообщениямиСекунд" id="8a7af511-2269-47b4-9a35-a7b896fedc93"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.Таймаут" id="956b8971-0b2d-4f27-9c27-196ff915f05f"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.IDПриложения" id="97c894b8-0ab2-4655-a4c6-b53c6abd987f"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.ДелатьСкриншот" id="9877b1f8-50a0-4e03-80ab-8420860010e1"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.СрокДействияТокена" id="aff86a29-16c9-4a8a-9425-c8ae264baf9a"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.channel" id="e3498954-b9fa-4a4f-9944-9ae5af362316"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.transport" id="ea02a280-90e6-4867-b4c9-19203272b0b2"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.АдресПубликации" id="f49abcbd-84c5-4b3b-9c28-06f78c7b38e6"/>
+			<Metadata name="Catalog.ТР_НастройкиИнтеграций.Attribute.token" id="f719eb81-5a7e-4a90-8f31-015353edb1b5"/>
+		</Metadata>
+		<Metadata name="Catalog.ТР_НастройкиИнтеграций.ManagerModule" id="4b143ec8-d6a8-4114-b7e4-06b3bdae2405.3" configVersion="cf18d228b9ddae2a620c6385927dafbf1b710e31"/>
+		<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов" id="578ace13-1b6e-4552-8406-f3b9342a734d" configVersion="d36f128067c8d02390c775696b47456c6f8c03bb">
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.Attribute.Заблокирован" id="03abfd21-4eba-4f75-ac0d-68c3cf664682"/>
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.Attribute.ВремяОжиданияСоединения" id="08386467-700a-4d36-859b-941ad45935dd"/>
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.Attribute.transport" id="09394dde-af1a-4c12-adba-02081189da96"/>
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.TabularSection.ДоступныеНомераПереводов" id="3e3575b0-d11f-4785-8267-77d16650f386"/>
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.Attribute.АдресПочтыОператора" id="5e3f7541-fb46-4303-878e-a6326b859ce7"/>
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.TabularSection.ВариантыТранспортаСообщенийChat2Desk.Attribute.transport" id="640701be-1f38-4cd7-8fc5-e04bbb25fe1d"/>
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.TabularSection.ВариантыТранспортаСообщенийChat2Desk" id="640a6d9a-9864-4666-9cb4-8e0ddd5d4da8"/>
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.Attribute.ОтделВеденияИРазвитияКлиентов" id="75994be7-65b7-4f40-94a0-4f535c34d9db"/>
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.Attribute.channel_id" id="a77df1c7-4d0d-4edb-83f6-2df4624cf292"/>
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.Attribute.НомерТелефона" id="b209ebff-f85d-4b7d-8f14-c22b5c8dccae"/>
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.Attribute.БотРассылка" id="bb1de8e7-be92-4e88-b093-9fefb90029c5"/>
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.Attribute.МППВход" id="c1239039-8f48-42fd-827b-addb9a64022f"/>
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.Attribute.РекламныйНомерВодители" id="ccd53887-9e6d-4d8e-9e31-93859e6aaf41"/>
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.Attribute.МаксимальнаяДлинаСообщения" id="d08063b9-8bcf-434d-9f37-b661b9362f01"/>
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.TabularSection.ДоступныеНомераПереводов.Attribute.Номер" id="ea5c4ae1-fe3d-45d2-a7ca-2e4deccfbe58"/>
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.Attribute.ЧастотаСменыМПП" id="eb0878ac-8b14-40ab-b811-18dd3a4f8311"/>
+			<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.Attribute.КоммерческийОтдел" id="f2af7a3e-02f9-4d19-92d9-9bc1a6c05632"/>
+		</Metadata>
+		<Metadata name="Catalog.ТР_НастройкиНомеровТелефонов.ManagerModule" id="578ace13-1b6e-4552-8406-f3b9342a734d.3" configVersion="c457b28cbee19754ef20fd4660806f16c2c27af3"/>
+		<Metadata name="CommonModule.КоннекторHTTP" id="804b5b2b-abec-4631-954c-25972a5ee820" configVersion="d03663dbe63754b534baaf8aa5de446481ced21f"/>
+		<Metadata name="CommonModule.КоннекторHTTP.Module" id="804b5b2b-abec-4631-954c-25972a5ee820.0" configVersion="c44d084f7f8c347bcb3a69c243edf6b2a3c59605"/>
+		<Metadata name="CommonModule.ТР_ИнтеграцияChat2Desk_20" id="71397281-f9b2-4874-ab91-a212d0f7f3ac" configVersion="9e4b728d49b194e287b098d9a008aa373575c739"/>
+		<Metadata name="CommonModule.ТР_ИнтеграцияChat2Desk_20.Module" id="71397281-f9b2-4874-ab91-a212d0f7f3ac.0" configVersion="6751f32ca201911b5ce754b8546eaec56fd9589a"/>
+		<Metadata name="CommonModule.ТР_ИнтеграцияБот" id="9e25ba90-fdd6-4405-b119-783cb6f75fa3" configVersion="a1114d04f088ac4d864c52209108d259cf24ed21"/>
+		<Metadata name="CommonModule.ТР_ИнтеграцияБот.Module" id="9e25ba90-fdd6-4405-b119-783cb6f75fa3.0" configVersion="463ad4f703048c1cc322d7b219666e3cd8df2f5e"/>
+		<Metadata name="Configuration.ТестовоеРасширение" id="f02c416c-42e4-477b-a0f0-c68444a27543" configVersion="f0ca2564327392721dab921d8d246142a7a0fa48"/>
+		<Metadata name="Document.ТР_ЗаказКлиента" id="46d6de37-d03c-4d31-b199-c2110e2edf8b" configVersion="1a49fa1e19077f100e4273e337c89542e99112cb">
+			<Metadata name="Document.ТР_ЗаказКлиента.TabularSection.Маршрут.Attribute.Широта" id="164e4e9d-e47c-40b0-a0a0-f7387c9c6a7b"/>
+			<Metadata name="Document.ТР_ЗаказКлиента.TabularSection.Маршрут.Attribute.Адрес" id="4393364a-d17f-4ae5-a94e-c80689ddb30b"/>
+			<Metadata name="Document.ТР_ЗаказКлиента.TabularSection.Маршрут" id="74ce628d-98fd-4b93-b660-b93d1073077f"/>
+			<Metadata name="Document.ТР_ЗаказКлиента.TabularSection.Маршрут.Attribute.Долгота" id="7d288b4d-f0c8-4816-8e27-c069bdf1ae1e"/>
+			<Metadata name="Document.ТР_ЗаказКлиента.Attribute.СуммаДокумента" id="be85d698-bd99-4aba-9807-7d420d9ff611"/>
+			<Metadata name="Document.ТР_ЗаказКлиента.Attribute.ВидТарифа" id="d3617d07-1805-46bc-8c26-1e2dac52bc5b"/>
+			<Metadata name="Document.ТР_ЗаказКлиента.Attribute.Комментарий" id="f496896c-1985-4150-bf9e-01142f4217d0"/>
+			<Metadata name="Document.ТР_ЗаказКлиента.Attribute.Клиент" id="f9cfe5ea-f961-4911-a63b-65aab90ed7c0"/>
+		</Metadata>
+		<Metadata name="HTTPService.ТР_ТестовыйСервис" id="53b21a20-aa08-4125-a5c6-9e0705da0896" configVersion="7a4df6168f105aaf312de1716366dac022152ce4">
+			<Metadata name="HTTPService.ТР_ТестовыйСервис.URLTemplate.TariffTypes" id="3cffb543-2a1a-4346-95c5-6c91e7dfc21f"/>
+			<Metadata name="HTTPService.ТР_ТестовыйСервис.URLTemplate.TariffTypes.Method.GET" id="d797d5e4-79a8-42f7-a521-cbf14ce4216a"/>
+		</Metadata>
+		<Metadata name="HTTPService.ТР_ТестовыйСервис.Module" id="53b21a20-aa08-4125-a5c6-9e0705da0896.0" configVersion="a86ae753411d7db83d8b59a2274fd576b7ca46db"/>
+		<Metadata name="Language.Русский" id="fac26b5d-cad7-43c9-abe3-897c6de86697" configVersion="ba3733583135cc258cf68f903544fd4fbd43ea15"/>
+		<Metadata name="Role.ТР_ОсновнаяРоль" id="c3b2b8b3-aecd-478b-a8f9-740a4ac49e8c" configVersion="28b35510a40bf3fc60c2d52dccfb7c0a6b507bb4"/>
+		<Metadata name="Subsystem.ТР_Задание1" id="85437b1f-6c65-4908-b4e9-8edfb9fff1d8" configVersion="6d3635752cb766d47f15aa80db3156b4c50b0e80"/>
+		<Metadata name="Subsystem.ТР_Задание2" id="a38385fb-adfa-48dd-9913-5115fde972ad" configVersion="f05f471982192a0b01757fe4dee5c4904e7007e9"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
